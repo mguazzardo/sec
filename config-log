@@ -1,0 +1,5 @@
+type=single
+ptype=regexp
+pattern=(\d+.\d+.\d+.\d+.).*404
+desc=force browsing detected ($1)
+action=logonly

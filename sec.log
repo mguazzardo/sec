@@ -1,0 +1,34 @@
+Tue Jun 16 01:38:59 2020: SEC (Simple Event Correlator) 2.8.1
+Tue Jun 16 01:38:59 2020: Reading configuration from config-log
+Tue Jun 16 01:38:59 2020: 1 rules loaded from config-log
+Tue Jun 16 01:38:59 2020: No --bufsize command line option or --bufsize=0, setting --bufsize to 1
+Tue Jun 16 01:38:59 2020: Opening input file /var/log/apache2/access.log
+Tue Jun 16 01:38:59 2020: Interactive process, SIGINT can't be used for changing the logging level
+Tue Jun 16 01:39:17 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:39:19 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:39:20 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:39:21 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:16 2020: SEC (Simple Event Correlator) 2.8.1
+Tue Jun 16 01:57:16 2020: Changing working directory to /
+Tue Jun 16 01:57:16 2020: Reading configuration from /root/sec/sec.conf
+Tue Jun 16 01:57:16 2020: Can't open configuration file /root/sec/sec.conf (No such file or directory)
+Tue Jun 16 01:57:16 2020: No --bufsize command line option or --bufsize=0, setting --bufsize to 1
+Tue Jun 16 01:57:16 2020: Opening input file /var/log/apache2/access.log
+Tue Jun 16 01:57:16 2020: Daemonization complete
+Tue Jun 16 01:57:36 2020: SEC (Simple Event Correlator) 2.8.1
+Tue Jun 16 01:57:36 2020: Changing working directory to /
+Tue Jun 16 01:57:36 2020: Reading configuration from /root/sec/config-daemon
+Tue Jun 16 01:57:36 2020: 1 rules loaded from /root/sec/config-daemon
+Tue Jun 16 01:57:36 2020: No --bufsize command line option or --bufsize=0, setting --bufsize to 1
+Tue Jun 16 01:57:36 2020: Opening input file /var/log/apache2/access.log
+Tue Jun 16 01:57:36 2020: Daemonization complete
+Tue Jun 16 01:57:51 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:52 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:53 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:54 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:55 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:55 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:56 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:57 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:57 2020: force browsing detected (192.168.0.93 )
+Tue Jun 16 01:57:58 2020: force browsing detected (192.168.0.93 )

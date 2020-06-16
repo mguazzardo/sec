@@ -1,0 +1,7 @@
+type=SingleWithThreshold
+ptype=regexp
+pattern=(\d+.\d+.\d+.\d+.).*404
+desc=force browsing detected ($1)
+action=write -
+window=30
+thresh=3

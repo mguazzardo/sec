@@ -1,0 +1,5 @@
+type=single
+ptype=regexp
+pattern=GET /wp-login.php
+desc=ha ocurrido un error (line $0)
+action=write -

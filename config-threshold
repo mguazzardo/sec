@@ -1,0 +1,7 @@
+type=SingleWithThreshold
+ptype=regexp
+pattern=404
+desc=deteccion de ataque a wordpress
+action=write -
+window=30
+thresh=4

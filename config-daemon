@@ -1,0 +1,5 @@
+type=Single
+ptype=regexp
+pattern=(\d+.\d+.\d+.\d+.).*wp-login.php
+desc=force browsing detected ($1)
+action=logonly
