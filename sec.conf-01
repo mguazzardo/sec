@@ -1,0 +1,5 @@
+type=single
+ptype=regexp
+pattern=error
+desc=se detecto un error
+action=write -
